@@ -2,8 +2,7 @@
 
 BACKUPCOUNT=1
 
-echo "[+] Script is running..."
-echo " "
+echo -e "[+] Script is running...\n"
 
 while :
 do
