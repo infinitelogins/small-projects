@@ -26,4 +26,4 @@ do
                 let "BACKUPCOUNT+=1"
                 echo -e "\n"
         fi
-d
+done
